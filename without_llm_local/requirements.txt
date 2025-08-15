@@ -1,0 +1,6 @@
+streamlit>=1.0
+python-dotenv>=0.21.0
+newspaper3k>=0.2.8
+pyttsx3>=2.90
+lxml>=4.9.0
+lxml_html_clean>=0.1.0
